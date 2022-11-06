@@ -10,5 +10,7 @@ python manager.py runserver
 python manager.py startapp api    
 python manage.py migrate  
 python manage.py create superuser  
+pip install django restframework  
+
   
 ```
